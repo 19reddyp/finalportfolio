@@ -23,8 +23,9 @@
     color: #37B4EA;
     border-radius: 4px;
     font-family: Helvetica;
-    width: 100%;
-    font-size: 90%;
+    width: 110%;
+    font-size: 80%;
+    text-align: center;
 }
 .center {
     text-align: center;
