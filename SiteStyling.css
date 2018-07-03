@@ -2,11 +2,11 @@
     font-family: Helvetica;
     color: #37B4EA;
     text-align: center;
-    font-size: 47px;
-    margin-top: 16px;
+    margin-top: 1.25%;
     font-weight: bold;
     text-shadow: -2px 2px #61767F;
-    height: 100px;
+    height: auto;
+    margin-bottom: -1%;
 }
 .line {
     background-color: #37B4EA;
@@ -62,7 +62,7 @@ body {
 }
 .img2{
     width: auto;
-    height: 42%;
+    height: 52%;
     margin: auto;
 }
 .img3 {
